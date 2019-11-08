@@ -1,0 +1,14 @@
+﻿.demo {
+    width: 400px;
+    height: 400px;
+}
+.demo-wrapper{
+    padding-bottom:55px;
+    border:3px solid gray;
+}
+#resultHtml {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
